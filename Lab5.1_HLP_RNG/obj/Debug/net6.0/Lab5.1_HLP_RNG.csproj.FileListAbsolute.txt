@@ -1,0 +1,15 @@
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.csproj.AssemblyReference.cache
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.AssemblyInfoInputs.cache
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.AssemblyInfo.cs
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.csproj.CoreCompileInputs.cache
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\bin\Debug\net6.0\Lab5.1_HLP_RNG.exe
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\bin\Debug\net6.0\Lab5.1_HLP_RNG.deps.json
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\bin\Debug\net6.0\Lab5.1_HLP_RNG.runtimeconfig.json
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\bin\Debug\net6.0\Lab5.1_HLP_RNG.dll
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\bin\Debug\net6.0\Lab5.1_HLP_RNG.pdb
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.dll
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\refint\Lab5.1_HLP_RNG.dll
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.pdb
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\Lab5.1_HLP_RNG.genruntimeconfig.cache
+C:\Users\dils\source\repos\Lab5.1_HLP_RNG\obj\Debug\net6.0\ref\Lab5.1_HLP_RNG.dll

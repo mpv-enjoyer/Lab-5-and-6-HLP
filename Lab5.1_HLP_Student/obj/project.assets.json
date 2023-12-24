@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Lab5.1_HLP_Person/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Lab5.1_HLP_RNG": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lab5.1_HLP_Person.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab5.1_HLP_Person.dll": {}
+        }
+      },
+      "Lab5.1_HLP_RNG/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lab5.1_HLP_RNG.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab5.1_HLP_RNG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5.1_HLP_Person/1.0.0": {
+      "type": "project",
+      "path": "../Lab5.1_HLP_Person/Lab5.1_HLP_Person.csproj",
+      "msbuildProject": "../Lab5.1_HLP_Person/Lab5.1_HLP_Person.csproj"
+    },
+    "Lab5.1_HLP_RNG/1.0.0": {
+      "type": "project",
+      "path": "../Lab5.1_HLP_RNG/Lab5.1_HLP_RNG.csproj",
+      "msbuildProject": "../Lab5.1_HLP_RNG/Lab5.1_HLP_RNG.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Lab5.1_HLP_Person >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dils\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dils\\source\\repos\\Lab5.1_HLP_Student\\Lab5.1_HLP_Student.csproj",
+      "projectName": "Lab5.1_HLP_Student",
+      "projectPath": "C:\\Users\\dils\\source\\repos\\Lab5.1_HLP_Student\\Lab5.1_HLP_Student.csproj",
+      "packagesPath": "C:\\Users\\dils\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dils\\source\\repos\\Lab5.1_HLP_Student\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dils\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\dils\\source\\repos\\Lab5.1_HLP_Person\\Lab5.1_HLP_Person.csproj": {
+              "projectPath": "C:\\Users\\dils\\source\\repos\\Lab5.1_HLP_Person\\Lab5.1_HLP_Person.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

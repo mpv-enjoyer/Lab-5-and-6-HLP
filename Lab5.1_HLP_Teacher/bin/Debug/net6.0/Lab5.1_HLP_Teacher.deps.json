@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab5.1_HLP_Teacher/1.0.0": {
+        "dependencies": {
+          "Lab5.1_HLP_Student": "1.0.0"
+        },
+        "runtime": {
+          "Lab5.1_HLP_Teacher.dll": {}
+        }
+      },
+      "Lab5.1_HLP_Person/1.0.0": {
+        "dependencies": {
+          "Lab5.1_HLP_RNG": "1.0.0"
+        },
+        "runtime": {
+          "Lab5.1_HLP_Person.dll": {}
+        }
+      },
+      "Lab5.1_HLP_RNG/1.0.0": {
+        "runtime": {
+          "Lab5.1_HLP_RNG.dll": {}
+        }
+      },
+      "Lab5.1_HLP_Student/1.0.0": {
+        "dependencies": {
+          "Lab5.1_HLP_Person": "1.0.0"
+        },
+        "runtime": {
+          "Lab5.1_HLP_Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5.1_HLP_Teacher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5.1_HLP_Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5.1_HLP_RNG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5.1_HLP_Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

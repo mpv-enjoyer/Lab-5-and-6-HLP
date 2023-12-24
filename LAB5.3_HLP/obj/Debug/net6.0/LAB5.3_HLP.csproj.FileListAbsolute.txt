@@ -1,0 +1,15 @@
+C:\Users\dils\source\repos\LAB5.3_HLP\bin\Debug\net6.0\LAB5.3_HLP.exe
+C:\Users\dils\source\repos\LAB5.3_HLP\bin\Debug\net6.0\LAB5.3_HLP.deps.json
+C:\Users\dils\source\repos\LAB5.3_HLP\bin\Debug\net6.0\LAB5.3_HLP.runtimeconfig.json
+C:\Users\dils\source\repos\LAB5.3_HLP\bin\Debug\net6.0\LAB5.3_HLP.dll
+C:\Users\dils\source\repos\LAB5.3_HLP\bin\Debug\net6.0\LAB5.3_HLP.pdb
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.csproj.AssemblyReference.cache
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.AssemblyInfoInputs.cache
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.AssemblyInfo.cs
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.csproj.CoreCompileInputs.cache
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.dll
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\refint\LAB5.3_HLP.dll
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.pdb
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\LAB5.3_HLP.genruntimeconfig.cache
+C:\Users\dils\source\repos\LAB5.3_HLP\obj\Debug\net6.0\ref\LAB5.3_HLP.dll

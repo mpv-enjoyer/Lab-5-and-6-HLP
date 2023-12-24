@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Lab5._1_HLP</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab5.1_HLP_Person\Lab5.1_HLP_Person.csproj" />
+    <ProjectReference Include="..\Lab5.1_HLP_RNG\Lab5.1_HLP_RNG.csproj" />
+    <ProjectReference Include="..\Lab5.1_HLP_StudentWithAdvisor\Lab5.1_HLP_StudentWithAdvisor.csproj" />
+    <ProjectReference Include="..\Lab5.1_HLP_Student\Lab5.1_HLP_Student.csproj" />
+    <ProjectReference Include="..\Lab5.1_HLP_Teacher\Lab5.1_HLP_Teacher.csproj" />
+  </ItemGroup>
+
+</Project>
